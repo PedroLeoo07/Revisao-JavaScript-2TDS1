@@ -1,6 +1,6 @@
 // Se a altura da pessoa for maior ou igual a altura mínima e menor que altura máxima: Permitindo, senão; Não Permitido
 
-let alturaPessoa = 2.01;
+let alturaPessoa = 1.01;
 let alturaMinima = 1.40;
 let alturaMaxima = 2.02;
 
