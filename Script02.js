@@ -17,7 +17,7 @@ if (idadeAluno>= IdadeMinima) {
 
 //Exercício 2
 
-let QuantidadeDePalmas = 20;
+let QuantidadeDePalmas = 30;
 let aplausos = ""
 
 for (let i = 1; i <= QuantidadeDePalmas; i++) {
